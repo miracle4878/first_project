@@ -11,7 +11,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".views.MainPage">
+        <activity android:name="views.MainPage">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -19,7 +19,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".views.DispatchNumberRegisterPage"
+            android:name="views.registerPhoneNum"
             android:label="Welcom Account Book App">
         </activity>
     </application>
