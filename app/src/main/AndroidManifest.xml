@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.jincompany.accountbook">
 
-    <!-- sms데이터에 접근하기위한 권한 추가 에뮬레이터에서 환경에서도 셋팅하여야함에 주의 -->
+    <!-- sms데이터에 접근하기위한 권한 추가 에뮬레이터에서 환경에서도 셋팅하여야함 -->
     <uses-permission android:name="android.permission.READ_SMS" />
 
     <application
